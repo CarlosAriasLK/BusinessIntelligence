@@ -28,4 +28,4 @@ Este repositorio contiene dos proyectos principales:
 - **Java**: Lenguaje de programación para la lógica del servidor.
 - **Spring Boot**: Framework para construir aplicaciones web y APIs RESTful.
 - **JPA / Hibernate**: Para la persistencia de datos en bases de datos.
-- **MySQL**: Base de datos para almacenar los datos procesados (según configuración).
+- **Postgress**: Base de datos para almacenar los datos procesados (según configuración).
