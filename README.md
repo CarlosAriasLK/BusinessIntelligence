@@ -7,7 +7,7 @@ Este proyecto de Business Intelligence (BI) está diseñado para proporcionar so
 **Características del proyecto**:
 - **Frontend**: Interfaz de usuario con Vue.js para la visualización de datos interactivos.
 - **Backend**: API RESTful desarrollada con Java para manejar las consultas y operaciones de datos.
-- **Visualización de datos**: Uso de herramientas de visualización interactivas en el frontend.
+- **Visualización de datos**: Uso de herramienta de visualización interactivas en el frontend.
 
 ## Arquitectura del Proyecto
 
